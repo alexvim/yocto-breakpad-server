@@ -1,0 +1,1 @@
+# yocto-breakpad-server
